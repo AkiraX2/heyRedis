@@ -1,11 +1,10 @@
 # heyRedis
-Fantastic gui tool client for Redis.
+Fantastic GUI tool client for Redis.
 
 
 
 ##Contributors
 
-@maketa521
+[`@Michael Dai`](https://github.com/maketa521) 
 
-@tixo
-
+[`@XiyangZh`](https://github.com/tixo) 
